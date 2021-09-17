@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Order</title>
     <link rel="stylesheet" href="order.css">
+    <link rel="shortcut icon" href="image/shortcut.jpg">
     <script src="https://kit.fontawesome.com/6d50d63ce1.js" crossorigin="anonymous"></script>
 </head>
 
